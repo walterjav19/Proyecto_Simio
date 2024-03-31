@@ -1,4 +1,0 @@
-Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0.0166666666666667;PIEZAS.48;INSPECCIÓN;0.OnEnteredInputBuffer;[Assign] OnEnteringAssignments;Data type mismatch in state variable assignment.
-0.0166666666666667;PIEZAS.48;INSPECCIÓN;0.OnEnteredInputBuffer;[Assign] OnEnteringAssignments;State variable 'PIEZAS.48.Picture' is of type 'Number' but attempting to assign value 'Lista_Piezas' that is of type 'ListReference'.
-
